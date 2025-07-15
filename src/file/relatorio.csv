@@ -1,0 +1,34 @@
+====== RELATÓRIO GERAL DA INDÚSTRIA ======
+
+🔹 Funcionários do Setor 1:
+   {"idFuncionario": 1, "nome": "Lucas", "sobrenome": "Dos Santos Crispim", "setor": "null"}
+   {"idFuncionario": 6, "nome": "Fernanda", "sobrenome": "Lima Rocha", "setor": "null"}
+   {"idFuncionario": 11, "nome": "Gabriel", "sobrenome": "Dias Silva", "setor": "null"}
+   {"idFuncionario": 16, "nome": "Aline", "sobrenome": "Cardoso Costa", "setor": "null"}
+
+🔹 Produções em 2025-06-20:
+
+🔹 Produtos produzidos pelo Funcionário ID 1:
+   {"id": 1, "nome": "Caderno", "descricao": "Caderno espiral de 100 folhas, capa dura"}
+
+🔹 Funcionários, Setores e Produções:
+   Lucas | Logística | 100 unidades em 2025-06-01
+   Fernanda | Logística | 90 unidades em 2025-06-06
+   Gabriel | Logística | 160 unidades em 2025-06-11
+   Aline | Logística | 250 unidades em 2025-06-16
+   Ana | Recursos Humanos | 150 unidades em 2025-06-02
+   Pedro | Recursos Humanos | 110 unidades em 2025-06-07
+   Cláudia | Recursos Humanos | 180 unidades em 2025-06-12
+   Tiago | Recursos Humanos | 230 unidades em 2025-06-17
+   Carlos | Tecnologia | 200 unidades em 2025-06-03
+   Juliana | Tecnologia | 130 unidades em 2025-06-08
+   Felipe | Tecnologia | 150 unidades em 2025-06-13
+   Luciana | Tecnologia | 190 unidades em 2025-06-18
+   Mariana | Financeiro | 120 unidades em 2025-06-04
+   Ricardo | Financeiro | 140 unidades em 2025-06-09
+   Isabela | Financeiro | 200 unidades em 2025-06-14
+   Ricardo | Financeiro | 170 unidades em 2025-06-19
+
+🔹 Detalhes da produção em 2025-06-20:
+
+====== FIM DO RELATÓRIO ======

@@ -1,0 +1,6 @@
+João,85
+Maria,90
+Pedro,78
+Ana,95
+Lucas,65
+Fernanda,88
